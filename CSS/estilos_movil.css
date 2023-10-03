@@ -1,0 +1,165 @@
+* {
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.act figure figcaption {
+    text-align: center;
+    color: rgb(162, 219, 238);
+
+}
+
+.act figure {
+    border: 5px solid rgb(162, 219, 238);
+    text-align: center;
+    border-radius: 10px;
+}
+
+/*.act ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    padding: 0;
+    list-style: none;
+}*/
+
+.act ul li {
+    margin: 0px;
+}
+
+.act img{
+    max-width: 100%;
+    height: auto;
+}
+
+.tem figure {
+    text-align: center;
+    color: rgb(162, 219, 238);
+    border: 5px solid rgb(162, 219, 238);
+}
+
+.video{
+    text-align: center;
+    border: 5px solid rgb(162, 219, 238);
+    border-radius: 10px;
+}
+
+.vid div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.act li figure figcaption {
+    font-size: 20px;
+}
+
+#botones{
+    text-align: center;
+}
+/*.res p{
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+}
+
+#temp45 p{
+    padding: 0px;
+    
+}*/
+
+.menu {
+    display: block;
+}
+
+.menu nav ul li {
+    display: inline-table;
+    padding: 10px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.tod p {
+    text-align: center;
+    font-size: 15px;
+
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(162, 219, 238);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*#temp45 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+}
+
+.res {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+*/
+
+.form{
+    background-color: rgb(162, 219, 238);
+    color: rgb(0, 0, 0);
+    width: 300px;
+    margin: auto;
+    height: auto;
+    border: 5px solid rgb(102, 38, 124);
+    border-radius: 10px;
+}
+
+.menu:hover ul{
+    display: block;
+    
+}
+
+.menu-button {
+    display: block;
+}
+
+.botones ul{
+    display: none;
+    
+}
+
+
+.menu{
+    
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.botones button{
+    padding: 5px;
+    font-size: 15;
+    background-color: rgb(102, 38, 124);
+}
+
+.botones button a:hover {
+    background-color: rgb(162, 219, 238);
+    color: rgb(240, 23, 4);
+    padding: 6px;
+    border: 5px solid rgb(102, 38, 124);
+    border-radius: 100px;
+}
+
+
+.form button {
+    margin-left: 39%;
+    width: 70px;
+    height: 20px;
+    background-color: rgb(102, 38, 124);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 1px;
+}

@@ -1,0 +1,139 @@
+* {
+    max-width: 100%;
+    height: auto;
+}
+
+.act figure figcaption {
+    text-align: center;
+    color: rgb(162, 219, 238);
+
+}
+
+.act figure {
+    border: 10px solid rgb(162, 219, 238);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.act ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.act ul li {
+    margin: 20px;
+}
+
+.act img{
+    max-width: 100%;
+    height: auto;
+}
+
+.tem figure {
+    text-align: center;
+    color: rgb(162, 219, 238);
+    border: 10px solid rgb(162, 219, 238);
+}
+
+.video{
+    text-align: center;
+    border: 10px solid rgb(162, 219, 238);
+    border-radius: 10px;
+}
+
+.res p{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#temp45 p{
+    padding: 15px;
+    
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.menu nav ul li {
+    display: inline-block;
+    color: white;
+    margin-top: 70px;
+    margin-left: 20px;
+    
+}
+
+#temp45 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.res {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(162, 219, 238);
+    margin: 20px;
+}
+
+.vid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.act li figure figcaption {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.tod p {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#temp {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+
+.form{
+    background-color: rgb(162, 219, 238);
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    width: 550px;
+    margin: auto;
+    height: auto;
+    border: 5px solid rgb(102, 38, 124);
+    border-radius: 10px;
+}
+
+.menu-button {
+    display: none;
+}
+
+.form button {
+    margin-left: 44%;
+    width: 70px;
+    height: 20px;
+    background-color: rgb(102, 38, 124);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 1px;
+}

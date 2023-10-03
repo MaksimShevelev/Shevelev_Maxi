@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Cooper;
+}
+
+
+
+header {
+    background-color: black;
+}
+
+
+
+
+
+.menu nav ul li a:hover {
+    background-color: rgb(162, 219, 238);
+    color: rgb(240, 23, 4);
+    padding: 6px;
+    border: 5px solid rgb(102, 38, 124);
+    border-radius: 100px;
+}
+
+body {
+    background-color: black;
+}
+
+
+
+.menu img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.des h1,
+p {
+    text-align: center;
+    color: rgb(162, 219, 238);
+    margin-bottom: 10px;
+}
+
+.act h1,
+p {
+    text-align: center;
+    color: rgb(162, 219, 238);
+    margin-bottom: 10px;
+}
+
+.tem h1,
+p {
+    text-align: center;
+    color: rgb(162, 219, 238);
+    margin-bottom: 10px;
+}
+
+footer figure {
+    text-align: center;
+}
+
+.tod img {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+}
+
+.tod {
+    text-align: center;
+
+}
+
+.tem #temp,
+#temp45,
+figure,
+figcaption,
+img {
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(162, 219, 238);
+    max-width: 100%;
+    height: auto;
+}
+
+
+.tem img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tem figure {
+    border-radius: 10px;
+}
+
+h2,
+p {
+    color: rgb(162, 219, 238);
+    text-align: center;
+}
+
+.video iframe {
+    width: 100%;
+    height: 400px;
+}
+
+.nos img {
+    text-align: center;
+}
+
+
+
+
+
+.form fieldset,
+label {
+    background-color: rgb(162, 219, 238);
+}
+
+.form textarea,
+input {
+    background-color: rgb(162, 219, 238);
+}
+
+
+
+.form textarea {
+    text-align: center;
+    width: 100%;
+    height: 150px;
+
+}
+
+label,
+fieldset {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    text-align: center;
+}

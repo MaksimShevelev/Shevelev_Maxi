@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Cooper Black W01";
-    src: url("/fonts/Cooper\ Black\ W01.woff")format("woff");
-   /* src: 
-    url("https://db.onlinewebfonts.com/t/582b39455c9f01455d3fbe61a55bd124.woff")format("woff"),*/
-    
+
+    src:
+        url("https://db.onlinewebfonts.com/t/582b39455c9f01455d3fbe61a55bd124.woff")format("woff");
+    src: url("/fonts/CooperBlack.woff")format("woff");
 }
 
 * {
@@ -148,6 +148,6 @@ fieldset {
     flex-direction: column;
 }
 
-footer{
+footer {
     text-align: center;
 }

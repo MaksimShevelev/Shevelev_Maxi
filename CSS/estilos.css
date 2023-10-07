@@ -1,8 +1,10 @@
 @font-face {
-    font-family: 'Cooper Black';
-    src: url('/fonts/CooperBlack_cyr.ttf') format('truetype');
+    font-family: "Cooper Black W01";
+    src: url("/fonts/Cooper\ Black\ W01.woff")format("woff");
+   /* src: 
+    url("https://db.onlinewebfonts.com/t/582b39455c9f01455d3fbe61a55bd124.woff")format("woff"),*/
+    
 }
-
 
 * {
     margin: 0;
